@@ -130,6 +130,14 @@ class EWMA(object):
         
     @classmethod
     def get_residuals(cls,raw_series,predictions,*args,**kwargs):
+        """Getting residuals
+
         
+        Arguments:
+            raw_series {pandas series, dataframe} -- dafuq
+            predictions {pandas series} -- dafuq
+        """       
+        a = {a:12,b:23,
+             }
         pass
     
