@@ -5,7 +5,7 @@ import statsmodels.api as sm
 import datetime
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+import quandl
 sns.set_style('darkgrid')
 
 # test data
