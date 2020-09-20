@@ -1,3 +1,5 @@
 # first code completion
 import pandas as pd
-import scipy
+import scipy as sp
+
+
