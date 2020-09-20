@@ -4,6 +4,7 @@ import statsmodels.api as smapi
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# creating metrohast function
 def metro_hast(f_pdf, g_pdf, g_gen,ndraws = 100,init_value = None, *args,**kwargs):
     ### function to run the general metropolis-hastings algorithm
     ### inputs
